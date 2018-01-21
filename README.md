@@ -61,3 +61,5 @@ Example Output:
 0003 A2 A1 : 1
 0004 A8 A9 A10 A5 : 6
 0005 A7 A8 A9 A10 A5 BaggageClaim : 12
+
+Please run MainTest class to see results 
